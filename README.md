@@ -1,1 +1,1 @@
-<img align='center' src="./2.gif" />
+<img align='center' src="./download.svg" />
